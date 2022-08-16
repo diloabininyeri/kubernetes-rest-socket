@@ -22,7 +22,7 @@ minikube service --all
 ```
 
 
-### using 
+### How can I use
 
 [Github Repo](https://github.com/diloabininyeri/rest-socket)
 
