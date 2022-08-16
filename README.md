@@ -24,7 +24,7 @@ minikube service --all
 
 ### using 
 
-[Doc](https://github.com/diloabininyeri/rest-socket)
+[Github Repo](https://github.com/diloabininyeri/rest-socket)
 
 send to message or data with any software langauge,no need more enviroument just use http rest api
 
