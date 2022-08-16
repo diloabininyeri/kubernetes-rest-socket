@@ -1,4 +1,4 @@
-# kubernetes notification system via socket.io
+# socket api via kubernetes(k8)
 
 ### deploy
 
