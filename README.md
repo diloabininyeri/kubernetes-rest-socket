@@ -1,6 +1,6 @@
-# kubernetes-rest-socket
-kubernetes rest socket via socket.io
+# kubernetes notification system via socket.io
 
+### deploy
 
 create deployment
 
@@ -15,3 +15,7 @@ kubectl apply -f service.yml
 and see URL of service
 
 minikube service --all
+
+
+### using 
+
