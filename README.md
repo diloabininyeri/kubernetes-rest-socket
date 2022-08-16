@@ -4,8 +4,8 @@ kubernetes rest socket via socket.io
 
 create deployment
 
-```
-console kubectl apply -f socket.yml
+```console
+kubectl apply -f deployment.yml
 ```
 and create service
 ```console
