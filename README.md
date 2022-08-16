@@ -1,5 +1,7 @@
 # socket api via kubernetes(k8)
 
+Using rest api, it sends notification to all clients subscribed to socket via socket, only rest api request sends notifications to subscribers on the back side, the purpose is to make a notification system independent of language
+
 ### deploy
 
 create deployment
