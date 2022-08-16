@@ -14,8 +14,14 @@ kubectl apply -f service.yml
 ```
 and see URL of service
 
+```console
 minikube service --all
+
+```
 
 
 ### using 
+
+[Doc](https://github.com/diloabininyeri/rest-socket)
+
 
