@@ -3,7 +3,7 @@
 Using rest api, it sends notification to all clients subscribed to socket via socket, only rest api request sends notifications to subscribers on the back side, the purpose is to make a notification system independent of language
 
 ### deploy
-
+#### Kubernetes
 create deployment
 
 ```console
@@ -20,6 +20,8 @@ and see URL of service
 minikube service --all
 
 ```
+
+#### Docker
 
 >avaliable docker ımage ,you can get from docker hub...
 ```console
